@@ -1,2 +1,2 @@
 # polun0122.github.io
-See my [About](/index.html/) page for details.
+See my [About](https://polun0122.github.io/index.html) page for details.
